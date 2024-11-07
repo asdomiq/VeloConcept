@@ -1,0 +1,115 @@
+<cde>
+	<detaillant numero="A101">
+		<produit>
+			<reference>V1256</reference>
+			<nom>VTT 512</nom>
+			<qte>8</qte>
+		</produit>
+		<produit>
+			<reference>V1166</reference>
+			<nom>VTT 418</nom>
+			<qte>6</qte>
+		</produit>
+		<produit>
+			<reference>V0822</reference>
+			<nom>VTT 400</nom>
+			<qte>6</qte>
+		</produit>
+		<produit>
+			<reference>R1256</reference>
+			<nom>VTC 804</nom>
+			<qte>9</qte>
+		</produit>
+		<produit>
+			<reference>R1218</reference>
+			<nom>VTC 504</nom>
+			<qte>4</qte>
+		</produit>
+		<produit>
+			<reference>R415</reference>
+			<nom>Route 1206</nom>
+			<qte>7</qte>
+		</produit>
+		<produit>
+			<reference>R302</reference>
+			<nom>Route 1222</nom>
+			<qte>4</qte>
+		</produit>
+	</detaillant>
+	<detaillant numero="A104">
+		<produit>
+			<reference>V1166</reference>
+			<nom>VTT 418</nom>
+			<qte>3</qte>
+		</produit>
+		<produit>
+			<reference>V0822</reference>
+			<nom>VTT 400</nom>
+			<qte>4</qte>
+		</produit>
+		<produit>
+			<reference>R1220</reference>
+			<nom>VTC 509</nom>
+			<qte>4</qte>
+		</produit>
+		<produit>
+			<reference>R415</reference>
+			<nom>Route 1206</nom>
+			<qte>3</qte>
+		</produit>
+	</detaillant>
+	<detaillant numero="A105">
+		<produit>
+			<reference>V1256</reference>
+			<nom>VTT 512</nom>
+			<qte>6</qte>
+		</produit>
+		<produit>
+			<reference>R1256</reference>
+			<nom>VTC 804</nom>
+			<qte>3</qte>
+		</produit>
+		<produit>
+			<reference>R1218</reference>
+			<nom>VTC 504</nom>
+			<qte>3</qte>
+		</produit>
+		<produit>
+			<reference>R415</reference>
+			<nom>Route 1206</nom>
+			<qte>4</qte>
+		</produit>
+		<produit>
+			<reference>R302</reference>
+			<nom>Route 1222</nom>
+			<qte>5</qte>
+		</produit>
+	</detaillant>
+	<detaillant numero="A106">
+		<produit>
+			<reference>R1256</reference>
+			<nom>VTC 804</nom>
+			<qte>12</qte>
+		</produit>
+		<produit>
+			<reference>R1218</reference>
+			<nom>VTC 504</nom>
+			<qte>14</qte>
+		</produit>
+		<produit>
+			<reference>R415</reference>
+			<nom>Route 1218</nom>
+			<qte>13</qte>
+		</produit>
+		<produit>
+			<reference>R302</reference>
+			<nom>Route 1222</nom>
+			<qte>11</qte>
+		</produit>
+		<produit>
+			<reference>R309</reference>
+			<nom>Route 1229</nom>
+			<qte>8</qte>
+		</produit>
+	</detaillant>
+</cde>
